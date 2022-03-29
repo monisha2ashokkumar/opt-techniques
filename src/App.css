@@ -1,4 +1,11 @@
 .App {
+  height: 40rem;
+  width: 40rem;
+  position: relative;
+  left: 15rem;
+  top: 10rem;
+  background-color: rgb(231, 217, 22);
+  border: 10rem;
   text-align: center;
 }
 
